@@ -1,2 +1,7 @@
 streamlit
 matplotlib
+pandas
+geopandas
+contextily
+numpy
+pylab
