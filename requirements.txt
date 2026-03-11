@@ -1,7 +1,10 @@
 streamlit
 matplotlib
 pandas
-geopandas
+geopandas==0.14.4
 contextily
 numpy
-pylab
+fiona
+shapely
+pyproj
+rtree
