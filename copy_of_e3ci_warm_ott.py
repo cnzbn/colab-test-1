@@ -371,4 +371,3 @@ title = 'Cold Stress Index per l\'Italia negli ultimi 12 mesi'
 # Call the function to create the color-graded bar plot
 create_colorgraded_barplot(categories, values, title)
 
-"""This is a lorem ipsum description"""
