@@ -9,7 +9,12 @@ Original file is located at
 
 import matplotlib.pyplot as plt
 import pandas as pd
+"""import geopandas as gpd"""
+
+import subprocess
+subprocess.run(["pip", "install", "geopandas==0.14.4"], capture_output=True)
 import geopandas as gpd
+
 import contextily as ctx
 import numpy as np
 import matplotlib.colors as mcol
